@@ -1,0 +1,11 @@
+Software Development Engineer (Backend) - Amazon
+
+We are looking for engineers who can build scalable backend services.
+Requirements:
+- Strong problem solving with data structures and algorithms
+- Proficiency in Java or Python, and experience building REST APIs
+- Good understanding of system design, microservices and distributed systems
+- Hands-on experience with AWS (EC2, S3, Lambda), Docker and CI/CD pipelines
+- Working knowledge of SQL and NoSQL databases such as DynamoDB or Redis
+- Familiarity with Kubernetes and Linux is a plus
+- Strong communication skills and ownership mindset

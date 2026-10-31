@@ -1,0 +1,19 @@
+# --- Backend ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+python-multipart>=0.0.9
+python-dotenv>=1.0
+pypdf>=4.0
+numpy>=1.26
+
+# --- AI stack ---
+langgraph>=0.2
+groq>=0.9
+faiss-cpu>=1.8
+sentence-transformers>=2.7   # HuggingFace embeddings (falls back to a built-in hashing embedder if missing)
+
+# --- Frontend ---
+streamlit>=1.50
+requests>=2.31
+plotly>=5.20

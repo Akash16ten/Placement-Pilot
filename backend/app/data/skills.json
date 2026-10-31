@@ -1,0 +1,404 @@
+{
+ "languages": {
+  "python": [
+   "python",
+   "python3"
+  ],
+  "java": [
+   "java"
+  ],
+  "c++": [
+   "c++",
+   "cpp"
+  ],
+  "c": [
+   "c language",
+   "c programming"
+  ],
+  "javascript": [
+   "javascript",
+   "js",
+   "es6"
+  ],
+  "typescript": [
+   "typescript",
+   "ts"
+  ],
+  "go": [
+   "golang",
+   "go lang"
+  ],
+  "sql": [
+   "sql",
+   "mysql",
+   "postgresql",
+   "postgres",
+   "sqlite",
+   "t-sql",
+   "pl/sql"
+  ],
+  "bash": [
+   "bash",
+   "shell scripting",
+   "shell"
+  ],
+  "kotlin": [
+   "kotlin"
+  ],
+  "c#": [
+   "c#",
+   "csharp"
+  ],
+  "rust": [
+   "rust"
+  ],
+  "r": [
+   "r programming"
+  ],
+  "abap": [
+   "abap"
+  ]
+ },
+ "web": {
+  "react": [
+   "react",
+   "reactjs",
+   "react.js"
+  ],
+  "node.js": [
+   "node.js",
+   "nodejs",
+   "node"
+  ],
+  "express": [
+   "express",
+   "expressjs",
+   "express.js"
+  ],
+  "next.js": [
+   "next.js",
+   "nextjs"
+  ],
+  "html": [
+   "html",
+   "html5"
+  ],
+  "css": [
+   "css",
+   "css3"
+  ],
+  "tailwind": [
+   "tailwind",
+   "tailwindcss"
+  ],
+  "fastapi": [
+   "fastapi"
+  ],
+  "flask": [
+   "flask"
+  ],
+  "django": [
+   "django"
+  ],
+  "spring boot": [
+   "spring boot",
+   "springboot",
+   "spring"
+  ],
+  "rest api": [
+   "rest",
+   "rest api",
+   "restful",
+   "restful api",
+   "rest apis"
+  ],
+  "graphql": [
+   "graphql"
+  ],
+  "websockets": [
+   "websocket",
+   "websockets"
+  ],
+  "streamlit": [
+   "streamlit"
+  ],
+  "redux": [
+   "redux"
+  ],
+  "vue": [
+   "vue",
+   "vue.js",
+   "vuejs"
+  ],
+  "angular": [
+   "angular"
+  ]
+ },
+ "data_ml": {
+  "machine learning": [
+   "machine learning",
+   "ml"
+  ],
+  "deep learning": [
+   "deep learning",
+   "dl"
+  ],
+  "nlp": [
+   "nlp",
+   "natural language processing"
+  ],
+  "pytorch": [
+   "pytorch",
+   "torch"
+  ],
+  "tensorflow": [
+   "tensorflow",
+   "keras"
+  ],
+  "scikit-learn": [
+   "scikit-learn",
+   "sklearn",
+   "scikit learn"
+  ],
+  "pandas": [
+   "pandas"
+  ],
+  "numpy": [
+   "numpy"
+  ],
+  "computer vision": [
+   "computer vision",
+   "opencv"
+  ],
+  "transformers": [
+   "transformers",
+   "hugging face",
+   "huggingface"
+  ],
+  "llm": [
+   "llm",
+   "llms",
+   "large language model",
+   "large language models"
+  ],
+  "rag": [
+   "rag",
+   "retrieval augmented generation",
+   "retrieval-augmented generation"
+  ],
+  "langchain": [
+   "langchain"
+  ],
+  "langgraph": [
+   "langgraph"
+  ],
+  "faiss": [
+   "faiss"
+  ],
+  "vector database": [
+   "vector database",
+   "vector db",
+   "vector store",
+   "pinecone",
+   "chroma",
+   "chromadb",
+   "weaviate"
+  ],
+  "prompt engineering": [
+   "prompt engineering",
+   "prompting"
+  ],
+  "mlops": [
+   "mlops",
+   "mlflow"
+  ],
+  "data analysis": [
+   "data analysis",
+   "data analytics",
+   "eda"
+  ],
+  "statistics": [
+   "statistics",
+   "statistical"
+  ],
+  "power bi": [
+   "power bi",
+   "powerbi"
+  ],
+  "tableau": [
+   "tableau"
+  ],
+  "spark": [
+   "spark",
+   "pyspark"
+  ],
+  "fine-tuning": [
+   "fine-tuning",
+   "fine tuning",
+   "finetuning",
+   "lora",
+   "qlora"
+  ]
+ },
+ "cloud_devops": {
+  "aws": [
+   "aws",
+   "amazon web services",
+   "ec2",
+   "s3",
+   "lambda"
+  ],
+  "azure": [
+   "azure"
+  ],
+  "gcp": [
+   "gcp",
+   "google cloud"
+  ],
+  "docker": [
+   "docker",
+   "containers"
+  ],
+  "kubernetes": [
+   "kubernetes",
+   "k8s"
+  ],
+  "ci/cd": [
+   "ci/cd",
+   "cicd",
+   "github actions",
+   "jenkins",
+   "gitlab ci"
+  ],
+  "terraform": [
+   "terraform"
+  ],
+  "linux": [
+   "linux",
+   "ubuntu"
+  ],
+  "nginx": [
+   "nginx"
+  ],
+  "git": [
+   "git",
+   "github",
+   "gitlab",
+   "version control"
+  ],
+  "networking": [
+   "networking",
+   "tcp/ip",
+   "ccna",
+   "routing",
+   "switching"
+  ]
+ },
+ "databases": {
+  "mongodb": [
+   "mongodb",
+   "mongo"
+  ],
+  "redis": [
+   "redis"
+  ],
+  "firebase": [
+   "firebase",
+   "firestore"
+  ],
+  "dynamodb": [
+   "dynamodb"
+  ],
+  "elasticsearch": [
+   "elasticsearch",
+   "elastic search"
+  ],
+  "kafka": [
+   "kafka"
+  ],
+  "rabbitmq": [
+   "rabbitmq"
+  ],
+  "database design": [
+   "database design",
+   "normalization",
+   "dbms",
+   "rdbms",
+   "schema design"
+  ]
+ },
+ "cs_fundamentals": {
+  "data structures": [
+   "data structures",
+   "dsa",
+   "data structure"
+  ],
+  "algorithms": [
+   "algorithms",
+   "algorithm",
+   "problem solving",
+   "competitive programming"
+  ],
+  "oop": [
+   "oop",
+   "oops",
+   "object oriented",
+   "object-oriented"
+  ],
+  "operating systems": [
+   "operating system",
+   "operating systems",
+   "os concepts"
+  ],
+  "computer networks": [
+   "computer networks",
+   "computer networking"
+  ],
+  "system design": [
+   "system design",
+   "low level design",
+   "high level design",
+   "lld",
+   "hld",
+   "scalability",
+   "microservices",
+   "distributed systems"
+  ],
+  "design patterns": [
+   "design patterns"
+  ],
+  "multithreading": [
+   "multithreading",
+   "concurrency",
+   "multi-threading"
+  ]
+ },
+ "practices_soft": {
+  "agile": [
+   "agile",
+   "scrum"
+  ],
+  "testing": [
+   "unit testing",
+   "pytest",
+   "junit",
+   "jest",
+   "test automation",
+   "testing"
+  ],
+  "communication": [
+   "communication",
+   "presentation"
+  ],
+  "teamwork": [
+   "teamwork",
+   "collaboration",
+   "team player"
+  ],
+  "leadership": [
+   "leadership",
+   "led a team",
+   "team lead"
+  ]
+ }
+}

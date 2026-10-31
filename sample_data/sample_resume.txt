@@ -1,0 +1,21 @@
+Rahul Sharma
+rahul.sharma@example.com | +91 9876543210 | github.com/rahulsharma | linkedin.com/in/rahul-sharma
+
+EDUCATION
+B.Tech in Computer Science (AI), ABC Institute of Technology, 2027 | CGPA: 8.1
+
+SKILLS
+Python, Java, C++, SQL, FastAPI, Flask, React, MongoDB, Git, Machine Learning, NLP, Pandas, scikit-learn
+
+PROJECTS
+Smart Notes Search - Built a semantic search engine using sentence embeddings and FAISS, improving retrieval accuracy by 22% over keyword search.
+Expense Tracker API - Developed a REST API with FastAPI and MongoDB serving 500+ test users with JWT authentication.
+Sentiment Analyzer - Fine-tuned a transformer model for sentiment classification reaching 91% F1 on a public dataset.
+
+EXPERIENCE
+Software Engineering Intern, TechCorp Pvt Ltd (Jun 2025 - Jul 2025)
+- Developed internal dashboards in React, reducing manual reporting time by 40%.
+- Automated data cleaning scripts in Python, processing 50k+ records daily.
+
+CERTIFICATIONS
+AWS Academy Cloud Foundations; Machine Learning Foundations

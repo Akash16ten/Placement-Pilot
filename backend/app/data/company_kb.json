@@ -1,0 +1,271 @@
+[
+ {
+  "company": "TCS",
+  "aliases": [
+   "tata consultancy services",
+   "tcs nqt",
+   "tcs digital",
+   "tcs ninja"
+  ],
+  "process": "Typically an online aptitude/reasoning/coding screening (NQT-style), followed by technical and managerial/HR interviews.",
+  "focus": [
+   "aptitude and logical reasoning",
+   "basic coding (arrays, strings, loops)",
+   "DBMS and SQL basics",
+   "OOP concepts",
+   "project explanation",
+   "communication"
+  ],
+  "themes": [
+   "Explain your final-year project end to end",
+   "Basic SQL queries and joins",
+   "OOP pillars with examples",
+   "Why TCS? Are you open to relocation and shifts?"
+  ]
+ },
+ {
+  "company": "Infosys",
+  "aliases": [
+   "infosys limited",
+   "infytq",
+   "infosys specialist programmer"
+  ],
+  "process": "Online assessment (reasoning, math, verbal, pseudocode/coding) followed by technical and HR interviews.",
+  "focus": [
+   "pseudocode and output prediction",
+   "DBMS and SQL",
+   "OOP and Java/Python basics",
+   "puzzles and logical reasoning",
+   "communication"
+  ],
+  "themes": [
+   "Output of a given code snippet",
+   "Normalization and keys in DBMS",
+   "Difference between abstract class and interface",
+   "Describe a challenge you solved in a project"
+  ]
+ },
+ {
+  "company": "Wipro",
+  "aliases": [
+   "wipro limited",
+   "wipro nlth",
+   "wipro elite"
+  ],
+  "process": "Online aptitude plus coding assessment, then technical and HR rounds.",
+  "focus": [
+   "aptitude",
+   "basic data structures",
+   "one core language",
+   "DBMS",
+   "communication and business email writing"
+  ],
+  "themes": [
+   "Reverse a linked list or string",
+   "SQL group-by queries",
+   "Strengths/weaknesses",
+   "Relocation and bond-related HR questions"
+  ]
+ },
+ {
+  "company": "Accenture",
+  "aliases": [
+   "accenture india",
+   "accenture associate software engineer"
+  ],
+  "process": "Cognitive and technical assessment, coding questions, and communication assessment followed by interview.",
+  "focus": [
+   "cognitive ability",
+   "networking and cloud basics",
+   "pseudocode",
+   "coding fundamentals",
+   "communication"
+  ],
+  "themes": [
+   "Cloud computing basics",
+   "Debugging a small program",
+   "Teamwork and adaptability scenarios",
+   "Why consulting?"
+  ]
+ },
+ {
+  "company": "Cognizant",
+  "aliases": [
+   "cts",
+   "cognizant genc",
+   "genc next"
+  ],
+  "process": "Online assessment with aptitude and coding, then technical and HR interviews.",
+  "focus": [
+   "aptitude",
+   "programming fundamentals",
+   "SQL",
+   "communication",
+   "project discussion"
+  ],
+  "themes": [
+   "Explain your project architecture",
+   "SQL joins and subqueries",
+   "Arrays and string manipulation",
+   "Where do you see yourself in 5 years?"
+  ]
+ },
+ {
+  "company": "Amazon",
+  "aliases": [
+   "amazon sde",
+   "amazon india",
+   "aws"
+  ],
+  "process": "Online assessment with coding and work-style questions, then multiple interviews mixing DSA, design and Leadership Principles behavioral rounds.",
+  "focus": [
+   "data structures and algorithms (trees, graphs, DP, heaps)",
+   "Leadership Principles with STAR stories",
+   "low-level design",
+   "clean, tested code",
+   "ownership and customer obsession"
+  ],
+  "themes": [
+   "Tell me about a time you disagreed and committed",
+   "Design an LRU cache",
+   "Graph and sliding-window problems",
+   "Dive deep into a project metric you owned"
+  ]
+ },
+ {
+  "company": "Google",
+  "aliases": [
+   "google sde",
+   "alphabet"
+  ],
+  "process": "Phone/online coding screens then onsite-style rounds focused on algorithms, data structures and problem solving, plus a behavioral component.",
+  "focus": [
+   "algorithms and complexity analysis",
+   "graphs, DP, recursion",
+   "clear communication while coding",
+   "edge cases and testing"
+  ],
+  "themes": [
+   "Explain trade-offs and time/space complexity",
+   "Optimize a brute-force approach",
+   "Googleyness and collaboration stories"
+  ]
+ },
+ {
+  "company": "Microsoft",
+  "aliases": [
+   "microsoft sde",
+   "msft"
+  ],
+  "process": "Coding rounds with data structures and problem solving, design discussion, and a behavioral/manager round.",
+  "focus": [
+   "arrays, strings, trees, linked lists",
+   "OOP and low-level design",
+   "problem solving approach",
+   "growth mindset behavioral questions"
+  ],
+  "themes": [
+   "Design a parking lot or similar OOP system",
+   "Tree and linked-list manipulation",
+   "Tell me about a time you learned from failure"
+  ]
+ },
+ {
+  "company": "Flipkart",
+  "aliases": [
+   "flipkart sde",
+   "flipkart grid"
+  ],
+  "process": "Online coding assessment, followed by DSA, machine-coding/low-level design, and hiring-manager rounds.",
+  "focus": [
+   "DSA",
+   "machine coding (working code in limited time)",
+   "system design basics",
+   "e-commerce domain thinking"
+  ],
+  "themes": [
+   "Design a cart or inventory service",
+   "Implement a rate limiter",
+   "Hashing and heap problems"
+  ]
+ },
+ {
+  "company": "Deloitte",
+  "aliases": [
+   "deloitte usi",
+   "deloitte india"
+  ],
+  "process": "Aptitude/technical online test followed by technical and HR/managerial interviews.",
+  "focus": [
+   "aptitude",
+   "SQL and databases",
+   "networking and cloud basics",
+   "communication",
+   "project discussion"
+  ],
+  "themes": [
+   "Explain your most technical project",
+   "SQL queries",
+   "Client-facing communication scenarios"
+  ]
+ },
+ {
+  "company": "Capgemini",
+  "aliases": [
+   "capgemini india"
+  ],
+  "process": "Game-based/aptitude assessment, pseudocode and coding, then technical and HR interviews.",
+  "focus": [
+   "pseudocode",
+   "aptitude and reasoning",
+   "programming fundamentals",
+   "communication"
+  ],
+  "themes": [
+   "Predict the output of pseudocode",
+   "Basics of OOP and DBMS",
+   "Why Capgemini?"
+  ]
+ },
+ {
+  "company": "SAP",
+  "aliases": [
+   "sap labs",
+   "sap labs india"
+  ],
+  "process": "Online assessment followed by technical rounds on DSA, databases and OOP, and a managerial/HR round.",
+  "focus": [
+   "data structures and algorithms",
+   "DBMS and SQL",
+   "OOP",
+   "ABAP/cloud fundamentals for relevant roles",
+   "problem solving"
+  ],
+  "themes": [
+   "Explain indexing in databases",
+   "Tree and graph problems",
+   "Walk through a design decision in your project"
+  ]
+ },
+ {
+  "company": "Generic",
+  "aliases": [
+   "startup",
+   "product company",
+   "other"
+  ],
+  "process": "Resume screen, coding round(s), technical discussion on projects and fundamentals, then HR/culture round.",
+  "focus": [
+   "DSA fundamentals",
+   "project depth",
+   "CS fundamentals (OS, DBMS, networks)",
+   "communication",
+   "ownership"
+  ],
+  "themes": [
+   "Walk me through your best project",
+   "Tell me about a time you faced a conflict",
+   "What are your strengths and weaknesses?"
+  ]
+ }
+]
