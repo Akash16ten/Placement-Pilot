@@ -105,12 +105,4 @@ tests/  sample_data/
 
 ---
 
-## Known limitations (good to state upfront in your viva)
 
-- **Groq path:** written against the Groq SDK and tested with a mocked LLM only. Run it once with your real key and check output quality and model names (`GROQ_MODEL` in `.env`; hosted model names change over time).
-- **Company knowledge base** is a small seed file of *general* hiring patterns, not official company statements. Extend `company_kb.json` with real data you collect; more entries give better grounding.
-- **Skill taxonomy** (`skills.json`) is hand-curated (about 120 skills). Skills outside it are not detected. Add yours.
-- **Scanned/image PDFs** have no extractable text (no OCR), and multi-column layouts can scramble the order.
-- **The ATS score is an estimate**, not what any specific commercial ATS would output.
-- **No authentication.** Sessions are identified by a random ID, and the rate limiter is in-memory and per-process. Add auth and a shared limiter before any public deployment.
-- **Not implemented** (the deck's *future scope*): voice interviews, in-app code execution, multilingual support, placement-cell dashboard.
